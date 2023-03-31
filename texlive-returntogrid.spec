@@ -1,6 +1,6 @@
 Name:		texlive-returntogrid
 Version:	48485
-Release:	1
+Release:	2
 Summary:	Semi-automatic grid typesetting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/returntogrid
