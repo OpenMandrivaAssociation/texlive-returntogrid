@@ -3,7 +3,7 @@ Version:	48485
 Release:	2
 Summary:	Semi-automatic grid typesetting
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/returntogrid
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/returntogrid
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/returntogrid.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/returntogrid.doc.r%{version}.tar.xz
